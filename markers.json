@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Los Santos Police Department",
+    "icon": "LSPD Station",
+    "total": 7,
+    "markers": [
+      {
+        "coords": [-983.8, 436.4]
+      },
+      {
+        "coords": [3.9, 625.0]
+      },
+      {
+        "coords": [-127.1, -554.4]
+      },
+      {
+        "coords": [-799.3, -1077.7]
+      },
+      {
+        "coords": [-1015.8, -1611.6]
+      },
+      {
+        "coords": [-1518.9, -1310.0]
+      },
+      {
+        "coords": [-2400.5, -889.2]
+      }
+    ]
+  },
+  {
+    "name": "Los Santos Sheriff Department",
+    "icon": "LSSD Station",
+    "total": 2,
+    "markers": [
+      {
+        "coords": [-1592.1, 376.1]
+      },
+      {
+        "coords": [1186.9, -3109.3]
+      }
+    ]
+  },
+  {
+    "name": "San Andreas Highway Patrol",
+    "icon": "SAHP Station",
+    "total": 1,
+    "markers": [
+      {
+        "coords": [-1294.8, 833.1]
+      }
+    ]
+  },
+  {
+    "name": "Blaine County Sheriff Office",
+    "icon": "BCSO Station",
+    "total": 2,
+    "markers": [
+      {
+        "coords": [3712.8, 1848.2]
+      },
+      {
+        "coords": [6043.6, -430.7]
+      }
+    ]
+  }
+]
