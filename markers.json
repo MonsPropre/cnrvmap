@@ -2,7 +2,6 @@
   {
     "name": "Los Santos Police Department",
     "icon": "LSPD Station",
-    "total": 7,
     "markers": [
       {
         "coords": [-983.8, 436.4]
@@ -30,7 +29,6 @@
   {
     "name": "Los Santos Sheriff Department",
     "icon": "LSSD Station",
-    "total": 2,
     "markers": [
       {
         "coords": [-1592.1, 376.1]
@@ -43,7 +41,6 @@
   {
     "name": "San Andreas Highway Patrol",
     "icon": "SAHP Station",
-    "total": 1,
     "markers": [
       {
         "coords": [-1294.8, 833.1]
@@ -53,7 +50,6 @@
   {
     "name": "Blaine County Sheriff Office",
     "icon": "BCSO Station",
-    "total": 2,
     "markers": [
       {
         "coords": [3712.8, 1848.2]
@@ -66,7 +62,6 @@
   {
     "name": "Club",
     "icon": "club",
-    "total": 3,
     "markers": [
       {
         "coords": [-584.5, -1385.4]
@@ -82,7 +77,6 @@
   {
     "name": "Hospital",
     "icon": "hospital",
-    "total": 6,
     "markers": [
       {
         "coords": [-1393.9, 346.0]
@@ -108,7 +102,6 @@
     "name": "Gas Station",
     "icon": "gas station",
     "size": 20,
-    "total": 30,
     "markers": [
       {
         "coords": [2813.4, 53.4]
@@ -138,10 +131,10 @@
         "coords": [4962.8, 1688.3]
       },
       {
-        "coords": [388.1, 2546.5]
+        "coords": [372.9, 2567.6]
       },
       {
-        "coords": [6441.5, 1720.0]
+        "coords": [6453.7, 1685.3]
       },
       {
         "coords": [6624.4, 159.0]
@@ -205,7 +198,6 @@
   {
     "name": "Gun Club",
     "icon": "gun_club",
-    "total": 2,
     "markers": [
       {
         "coords": [-1104.3, 23.2]
@@ -218,7 +210,6 @@
   {
     "name": "Gun Store",
     "icon": "gun_store",
-    "total": 9,
     "markers": [
       {
         "coords": [-381.7, -1310.0]
@@ -246,6 +237,96 @@
       },
       {
         "coords": [6125.9, -326.7]
+      }
+    ]
+  },
+  {
+    "name": "Convenience Store",
+    "icon": "convenience_store",
+    "markers": [
+      {
+        "coords": [-906.1, -697.7]
+      },
+      {
+        "coords": [-1342.1, 36.8]
+      },
+      {
+        "coords": [-1752.1, -46.2]
+      },
+      {
+        "coords": [-294.8, 1152.9]
+      },
+      {
+        "coords": [337.8, 380.7]
+      },
+      {
+        "coords": [377.4, 2543.4]
+      },
+      {
+        "coords": [805.8, -1810.8]
+      },
+      {
+        "coords": [610.7, -3023.3]
+      },
+      {
+        "coords": [1022.3, -3223.9]
+      },
+      {
+        "coords": [2685.4, 548.1]
+      },
+      {
+        "coords": [3775.3, 1956.7]
+      },
+      {
+        "coords": [3313.4, 2673.1]
+      },
+      {
+        "coords": [4955.2, 1697.3]
+      },
+      {
+        "coords": [6453.7, 1716.9]
+      },
+      {
+        "coords": [6450.6, -97.4]
+      }
+    ]
+  },
+  {
+    "name": "Export",
+    "icon": "export",
+    "markers": [
+      {
+        "coords": [-3038.7, 456.1]
+      }
+    ]
+  },
+  {
+    "name": "Impound",
+    "icon": "impound",
+    "markers": [
+      {
+        "coords": [-1627.1, 410.8]
+      },
+      {
+        "coords": [-1366.5, 837.7]
+      },
+      {
+        "coords": [-836.0, -1112.5]
+      },
+      {
+        "coords": [-871.0, -341.8]
+      },
+      {
+        "coords": [305.8, 368.6]
+      },
+      {
+        "coords": [325.6, -565.0]
+      },
+      {
+        "coords": [3758.5, 1437.9]
+      },
+      {
+        "coords": [6104.6, -254.3]
       }
     ]
   }
